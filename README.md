@@ -27,7 +27,7 @@ Thankfully, it failed due to being an obvious fake. However, we know that phishi
 
 Start the quick quiz to learn what an ‘obvious fake’ might look like.
 
-MC1
+![IMAGE](https://raw.githubusercontent.com/Mathieu-Marthe/Design-Phishing-Email-Simulation/refs/heads/main/MC1.png)
 
 ### What is the first issue you spot in this phishing email?
 Suspicious source email address 
@@ -57,9 +57,9 @@ Once you've submitted your email, we'll show you an example of a good phishing e
 
 Here is the obvious fake:
 
-MC2
+![IMAGE](https://raw.githubusercontent.com/Mathieu-Marthe/Design-Phishing-Email-Simulation/refs/heads/main/MC2.png)
 
-## My Draft:
+## My Improved Version:
 
 Dear [Employee Name],
 
