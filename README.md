@@ -65,7 +65,7 @@ Dear [Employee Name],
 
 As part of routine security monitoring, our Security Operations Center detected unauthorized login attempts to your corporate email account from an unrecognized IP address based in [Foreign Country] earlier today.
 
-To protect sensitive client data, we’ve temporarily restricted some of your access. You are required to verify your identity and reset your credentials immediately using the secure link below:
+To protect sensitive client data, we’ve temporarily restricted your access. You are required to verify your identity and reset your credentials immediately using the secure link below:
 
 [RESET CREDENTIALS](https://en.wikipedia.org/wiki/Phishing)
 
@@ -78,3 +78,4 @@ Sincerely,
 Mastercard Security Team
 
 CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for the use of the individual or entity to whom they are addressed. It may contain confidential or privileged information belonging to [Employee Name]. If you are not the intended recipient, please notify the sender immediately and delete this email. Any unauthorized review, use, disclosure, or distribution is prohibited.
+
