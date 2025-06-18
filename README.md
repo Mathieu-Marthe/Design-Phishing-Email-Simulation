@@ -37,9 +37,7 @@ Improve the grammar, spelling and sloppy layout
 
 Your manager wants you to lead Mastercard’s next phishing simulation campaign. This is an awesome opportunity for you to step up and show what you can do.
 
-The first step is to create the fake phishing email to use in the simulation.
-
-You’ve just seen what an ‘obvious fake’ looks like, so it’s important to make yours contextual and believable to increase the likelihood of an employee clicking on the phishing link.
+The first step is to create the fake phishing email to use in the simulation. it’s important to make yours contextual and believable to increase the likelihood of an employee clicking on the phishing link.
 
 ### Improve the phishing email
 
@@ -50,8 +48,6 @@ To create a ‘good’ phishing email, you should:
 - Mask the hyperlink within text
 - Use correct spelling and grammar
 - Add points of legitimacy
-
-Once you've submitted your email, we'll show you an example of a good phishing email.
 
 Here is the obvious fake:
 
