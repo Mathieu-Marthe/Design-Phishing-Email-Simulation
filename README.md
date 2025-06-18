@@ -6,9 +6,7 @@
 
 [Learn more](https://www.theforage.com/simulations/mastercard/cybersecurity-t8ye)
 
-You are an analyst in our Security Awareness Team.
-
-Our Chief Security Officer (CSO) relies on our team to help our staff learn how to identify and report security threats to Mastercard.
+As an analyst in our Security Awareness Team, our Chief Security Officer (CSO) relies on our team to help our staff learn how to identify and report security threats to Mastercard.
 
 One of the most common threats organizations face today is phishing. So, what is phishing?
 - Phishing is the act of pretending to be someone/something to get information, in most cases, this is usually a password.
@@ -35,7 +33,7 @@ Suspicious source email address
 ### How could you improve the body of the phishing email to make it more believable?
 Improve the grammar, spelling and sloppy layout
 
-## Your task is to create a believable phishing email
+## The task is to create a believable phishing email
 
 Your manager wants you to lead Mastercard’s next phishing simulation campaign. This is an awesome opportunity for you to step up and show what you can do.
 
@@ -75,6 +73,7 @@ This action is in accordance with our Internal Security Policy (Section 3.2 – 
 If you have already verified your account in the last 24 hours, no further action is required.
 
 Sincerely,
+
 Mastercard Security Team
 
 CONFIDENTIALITY NOTICE: This email and any attachments are intended solely for the use of the individual or entity to whom they are addressed. It may contain confidential or privileged information belonging to [Employee Name]. If you are not the intended recipient, please notify the sender immediately and delete this email. Any unauthorized review, use, disclosure, or distribution is prohibited.
